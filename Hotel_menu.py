@@ -6,6 +6,8 @@ menu={
     "coke":30,
     "noodles":60
 }
+print ("pizza:99\nmanchuria:60\nburger:40\npast:75\ncoke:30\nnoodles:60")
+
 bill=0
 item_1=input("Enter the item what do you want: ")
 if item_1 in menu:
